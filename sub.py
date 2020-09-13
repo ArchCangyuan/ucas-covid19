@@ -93,6 +93,9 @@ def submit(s: requests.Session, old: dict):
         'gtshcyjkzt': old['gtshcyjkzt'],
         'jrsfdgzgfxdq': old['jrsfdgzgfxdq'],
         'jrsflj': old['jrsflj'],
+        'gtshcyjkzt': old['gtshcyjkzt'],
+        'jrsfdgzgfxdq': old['jrsfdgzgfxdq'],
+        'jrsflj': old['jrsflj'],
         'app_id': 'ucas'}
 
     r = s.post("https://app.ucas.ac.cn/ncov/api/default/save", data=new_daily)
