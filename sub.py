@@ -1,6 +1,6 @@
 
-"""
-author: Les1ie
+"""  
+author: Les1ied
 mail: me@les1ie.com
 license: CC BY-NC-SA 3.0
 """
